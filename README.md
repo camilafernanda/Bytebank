@@ -1,7 +1,10 @@
 # Bytebank - Aprendendo Java 👩‍💻
 ###
 
-Atividade desenvolvida no Curso Java e Orientação à Objetos.
+![image](https://user-images.githubusercontent.com/37356058/190029820-2cdc731e-9d13-409a-8615-5a0102d986e3.png)
+
+
+Atividade desenvolvida no `Curso de Java e Orientação à Objetos`, ministrado por Paulo Silveira.
 
 ###
 ## Aprendizados:
